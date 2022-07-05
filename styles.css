@@ -1,0 +1,30 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+img#principal {
+    width: 800px;
+}
+
+h1 {
+    text-align: center;
+    color: #f31515;
+    background-color: aqua;
+}
+
+p {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}       
+
+.introduction {
+    font-size: 36px;
+    font-weight: bold;
+    color: darkmagenta;
+    background-color: antiquewhite;
+}
+
+li {
+    font-size: 22px;
+}
